@@ -19,6 +19,7 @@
 </p>
 
 <br>
+
 <p align="center">
   🔧 Full Stack Developer specializing in modern web applications
   <br>
@@ -37,25 +38,27 @@
 
 <h2 align="center" style="color: #00FF41;">⚡ نشاطي على GitHub | GitHub Stats</h2>
 <br>
-<p align=center>
-  <div align=center>
+<div align="center">
+  <div align="center">
     <a href="https://git.io/streak-stats" title="GitHub Streak">
-      <img align="left" width=400 src="https://streak-stats.demolab.com?user=MustafaKhalil&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+      <img align="left" width="400" src="https://streak-stats.demolab.com?user=MustafaKhalil&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=MustafaKhalil&show_icons=true&theme=dark&border_color=00FF41&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=MustafaKhalil&show_icons=true&theme=dark&border_color=00FF41&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
     </a>
   </div>
+  
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  
+  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhalil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8&border_color=00FF41" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhalil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8&border_color=00FF41" />
     </a>
   </div>
   <br>
-
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaKhalil&theme=react-dark&bg_color=0D1117&hide_border=true&point=00FF41&line=00FF41&color=FFFFFF" width="100%"/>
-</p>
+</div>
 
 <hr style="border: 1px solid #00FF41;">
 
@@ -123,7 +126,7 @@
 <h2 align="center" style="color: #00FF41;">🚀 What I'm Building Now</h2>
 <div align="center">
   
-  ```bash
-  $ Currently Building: Full-stack SaaS Platform
-  $ Stack: Next.js 14 + NestJS + PostgreSQL
-  $ Status: In Development 🚧
+```bash
+$Currently Building: Full-stack SaaS Platform$ Stack: Next.js 14 + NestJS + PostgreSQL
+$ Status: In Development 🚧
+
