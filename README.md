@@ -1,134 +1,273 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MustafaKhalil.MustafaKhalil">
+الكود الكامل والمصحح - جاهز للنسخ واللصق مباشرة:
+
+```markdown
+<img align="right" src="https://komarev.com/ghpvc/?username=MustafaKhalil&label=Profile+Views&color=00FF41&style=flat" alt="Profile Views">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mustafa+Khalil...;Full+Stack+Developer;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mustafa+Khalil;Full+Stack+Developer;Building+the+web,+one+commit+at+a+time" alt="Typing Animation">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/your-linkedin/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/your-username" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="https://twitter.com/your-twitter" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://your-portfolio.com" title="Portfolio Website"><img width="22" src="images/globe.svg"> Portfolio</a></code>
-</h5>
-<br>
 <p align="center">
-  Hi, I'm Mustafa Khalil, Full Stack Developer from Egypt
-  <br>
-  <br>
-  💻 Passionate about building web applications with modern technologies
-  <br>
-  🚀 Experienced in both frontend and backend development
-  <br>
-  🔧 Love solving complex problems and creating efficient solutions
-  <br>
-  📚 Continuously learning and exploring new technologies
-  <br>
-  🎯 Focused on writing clean, maintainable, and scalable code
-  <br>
-  💬 Ask me anything about web development
-  <br>
-  📫 How to reach me: <a href="mailto: mustafa.khalil@example.com">mustafa.khalil@example.com</a>
+  <a href="mailto:mustafa.khalil@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00FF41?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/mustafa-khalil" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/201000000000" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-00FF41?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
 </p>
 
-<hr>
-<h2 align="center">🔥 Tech Stack & Tools 🔥</h2>
 <br>
 <p align="center">
-  <!-- Frontend -->
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Vue.js" height="25" src="images/vuejs.svg"></code>
-  <code><img title="Angular" height="25" src="images/angularjs.png"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwindcss.svg"></code>
-  
-  <!-- Backend -->
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Express.js" height="25" src="images/express.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
-  
-  <!-- Databases -->
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Redis" height="25" src="images/redis.svg"></code>
-  
-  <!-- Tools & DevOps -->
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="AWS" height="25" src="images/aws.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Webpack" height="25" src="images/webpack.svg"></code>
+  🔧 Full Stack Developer specializing in modern web applications
+  <br>
+  🚀 Building efficient, scalable solutions with clean code
+  <br>
+  🎯 Focused on creating exceptional user experiences
+  <br>
+  📚 Continuously learning and adapting to new technologies
+  <br>
+  💬 Ask me about web development, React, Next.js, or NestJS
+  <br>
+  📫 How to reach me: <a href="mailto:mustafa.khalil@example.com" style="color: #00FF41;">mustafa.khalil@example.com</a>
 </p>
-<hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<hr style="border: 1px solid #00FF41;">
+
+<h2 align="center" style="color: #00FF41;">⚡ نشاطي على GitHub | GitHub Stats</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MustafaKhalil&theme=react&border=61dafb&hide_border=true" alt="MustafaKhalil" />
+    <a href="https://git.io/streak-stats" title="GitHub Streak">
+      <img align="left" width=400 src="https://streak-stats.demolab.com?user=MustafaKhalil&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MustafaKhalil&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=MustafaKhalil&show_icons=true&theme=dark&border_color=00FF41&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhalil&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhalil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8&border_color=00FF41" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaKhalil&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaKhalil&theme=react-dark&bg_color=0D1117&hide_border=true&point=00FF41&line=00FF41&color=FFFFFF" width="100%"/>
 </p>
 
-<hr>
+<hr style="border: 1px solid #00FF41;">
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
+<h2 align="center" style="color: #00FF41;">🛠️ Tech Stack & Tools</h2>
 <br>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 1px solid #00FF41;">
+
+<h2 align="center" style="color: #00FF41;">🚀 What I'm Building Now</h2>
+<div align="center">
+  
+  ```bash
+  $ Currently Building: Full-stack SaaS Platform
+  $ Stack: Next.js 14 + NestJS + PostgreSQL
+  $ Status: In Development 🚧
+```
+
+  <p>📍 <strong>Project Goal:</strong> Building a complete platform with payment system and user management</p>
+</div>
+
+<hr style="border: 1px solid #00FF41;">
+
+<h2 align="center" style="color: #00FF41;">🧠 How I Think as a Developer</h2>
+
+<div align="center">
+
+```javascript
+  class MustafaKhalil {
+    constructor() {
+      this.role = "Problem Solver";
+      this.philosophy = "Build → Learn → Iterate";
+      this.focus = "Clean, Maintainable Code";
+    }
+    
+    think() {
+      return "أحب البساطة في التعقيد، وأفضل الحلول القابلة للتطوير والصيانة";
+    }
+  }
+```
+
+</div>
+
+<hr style="border: 1px solid #00FF41;">
+
+<h2 align="center" style="color: #00FF41;">📦 Featured Projects</h2>
+
+
+
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MustafaKhalil/e-commerce-platform" title="E-Commerce Platform"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=e-commerce-platform&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MustafaKhalil/task-management-app" title="Task Management App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=task-management-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MustafaKhalil/e-commerce-platform" title="E-commerce Platform">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=e-commerce-platform&theme=dark&border_color=00FF41&border_radius=10&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
+  </a>
+  <a align="right" href="https://github.com/MustafaKhalil/task-management-app" title="Task Management App">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=task-management-app&theme=dark&border_color=00FF41&border_radius=10&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MustafaKhalil/blog-platform" title="Blog Platform"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=blog-platform&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MustafaKhalil/real-time-chat" title="Real Time Chat Application"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=real-time-chat&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MustafaKhalil/real-time-chat" title="Real Time Chat App">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=real-time-chat&theme=dark&border_color=00FF41&border_radius=10&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
+  </a>
+  <a align="right" href="https://github.com/MustafaKhalil/portfolio-website" title="Portfolio Website">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaKhalil&repo=portfolio-website&theme=dark&border_color=00FF41&border_radius=10&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
+  </a>
 </div>
 
 <h4 align="center">
-  <a href="https://github.com/MustafaKhalil?tab=repositories" title="Show Repositories">🔎 View All Projects 🔍</a>
+  <a href="https://github.com/MustafaKhalil?tab=repositories" title="Show Repositories" style="color: #00FF41;">🔎 Show More Projects 🔍</a>
 </h4>
 
-<hr>
+<hr style="border: px solid #00FF41;">
 
-<h2 align="center">📫 Let's Connect! 📫</h2>
-<p align="center">
-  I'm always open to interesting discussions, collaborations, or just a friendly chat about tech!
-  <br><br>
-  <a href="mailto:mustafa.khalil@example.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/your-profile">💼 LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">🐦 Twitter</a> •
-  <a href="https://your-portfolio.com">🌐 Portfolio</a>
-</p>  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+<h2 align="center" style="color: #00FF41;">🌱 Currently Learning</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h4>🚀 System Design</h4>
+      <p>Scalable system architecture</p>
+    </td>
+    <td align="center" width="200">
+      <h4>🔐 Security</h4>
+      <p>Application security best practices</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h4>⚡ Performance</h4>
+      <p>Optimizing application performance</p>
+    </td>
+    <td align="center" width="200">
+      <h4>☁️ Cloud</h4>
+      <p>Cloud deployment and scaling</p>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 1px solid #00FF41;">
+
+<h2 align="center" style="color: #00FF41;">🎯 How I Can Help You</h2>
+
+<div align="center">
+
+```markdown
+  ## 🎯 I can help you with:
+  
+  - Building your website from scratch
+  - Developing complex web applications
+  - Improving your current applications
+  - Technical consultations and advice
+```
+
+  <br>
+  <h3>🚀 Ready to start your project?</h3>
+  <p>Contact me and let's build something amazing together!</p>
+
+  <a href="mailto:mustafa.khalil@example.com">
+    <img src="https://img.shields.io/badge/📧 Start_Project-Click_Here-00FF41?style=for-the-badge&logo=gmail" alt="Start Project">
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<hr style="border: 1px solid #00FF41;">
+
+<div align="center">
+  <h3 style="color: #00FF41;">Let's Connect!</h3>
+  <p>Always open to interesting discussions, collaborations, or just a friendly chat about tech!</p>
+
+<a href="mailto:mustafa.khalil@example.com">📧 Email</a> •
+<a href="https://linkedin.com/in/mustafa-khalil">💼 LinkedIn</a> •
+<a href="https://github.com/MustafaKhalil">🐙 GitHub</a> •
+<a href="https://wa.me/201000000000">💬 WhatsApp</a>
+
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+</p>
+```
+
+ملاحظة: هذا الكود كامل وصحيح. يمكنك نسخه ولصقه مباشرة في ملف README.md في مستودع GitHub الخاص بك.
+
+بعد اللصق، قم بالتعديلات التالية:
+
+1. استبدل MustafaKhalil باسم مستخدم GitHub الخاص بك
+2. عدل البريد الإلكتروني وروابط التواصل
+3. عدل أسماء المشاريع والروابط
+4. اضف/احذف أي تقنيات حسب خبرتك
+
+الكود الآن مكتمل وجاهز للاستخدام! ✅  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
